@@ -1,4 +1,5 @@
 **/.venv/
-**/uv.lock/
+**/uv.lock
 .gitignore
 **/__pycache__/
+.python-version

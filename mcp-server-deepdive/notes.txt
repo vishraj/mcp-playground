@@ -1,0 +1,26 @@
+my favorite programming language is python
+my favorite food is noodles.
+
+
+Top 10 ATP Tennis Players (Current Rankings):
+1. Jannik Sinner (Italy) - 12,030 points
+2. Carlos Alcaraz (Spain) - 8,600 points  
+3. Alexander Zverev (Germany) - 6,030 points
+4. Taylor Fritz (USA) - 5,135 points
+5. Jack Draper (Great Britain) - 4,650 points
+6. Novak Djokovic (Serbia) - 4,130 points
+7. Ben Shelton (USA) - 3,520 points
+8. Alex de Minaur (Australia) - 3,335 points
+9. Holger Rune (Denmark) - 3,250 points
+10. Lorenzo Musetti (Italy) - 3,195 points
+Top 10 ATP Tennis Players (Current Rankings):
+1. Jannik Sinner (Italy) - 12,030 points
+2. Carlos Alcaraz (Spain) - 8,600 points  
+3. Alexander Zverev (Germany) - 6,030 points
+4. Taylor Fritz (USA) - 5,135 points
+5. Jack Draper (Great Britain) - 4,650 points
+6. Novak Djokovic (Serbia) - 4,130 points
+7. Ben Shelton (USA) - 3,520 points
+8. Alex de Minaur (Australia) - 3,335 points
+9. Holger Rune (Denmark) - 3,250 points
+10. Lorenzo Musetti (Italy) - 3,195 points

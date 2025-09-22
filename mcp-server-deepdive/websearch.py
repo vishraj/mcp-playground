@@ -4,6 +4,7 @@ from openai import OpenAI
 API_KEY = '...' # Replace with your actual OpenAI API key
 mcp = FastMCP("Web Search")
 
+@mcp.tool()
 def web_search(query: str) -> str:
     """
     Performs a web search for your query and returns the results.
